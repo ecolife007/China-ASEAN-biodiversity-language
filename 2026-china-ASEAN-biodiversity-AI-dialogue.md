@@ -1,4 +1,4 @@
-See more information in the agenda:English, Chinese 
+See more information in the agenda:[English](docs/English-agenda.pdf), [Chinese](docs/Chinese-agenda.pdf)
 
 # Keynote 
 
@@ -35,12 +35,10 @@ Xu Zheping, Research Librarian, National Science Library, Chinese Academy of Sci
 3. Monitoring of Nocturnal Insect Biodiversity in Singapore: AComparative Survey Using AMI Systems
 
 Wan Lin Ng, Singapore, Asian School of the Environment, Nanyang TechnologicalUniversity, Project Officer
-wanlin.ng@ntu.edu.sg
 
 4. Shaping a Sustainable Future: Al-Empowered Innovation by Young Scientists
 
 Inthasone Somsack, Laos, Faculty of Natural Sciences, National University of Laos, Vice Dean of Faculty
-somsacki@nuol.edu.la
 
 5. Applications of Intelligent Sensing Devices Based on Integrated AlHardware and Software Technology in Wildlife Conservation
 
@@ -53,17 +51,14 @@ Liu Bo, Lecturer, Minzu University of China
 7. Empowering Coral Reef Monitoring with Artificial Intelligence: AComparative Evaluation of ReefCloud and Conventional Coral VideoTransect Analysis 
 
 Tan Chun Hong, Malaysia, Faculty of Science andMarine Environment, Universiti Malaysia Terengganu, Associate Professor
-tanchunhong@umt.edu.my
 
 8. An Update of Indonesian Biodiversity Research and Connection with Neighbouring Country 
 
 Kartonegoro Abdulrokhman, Indonesia, Research Center for Biosystematics and Evolution, National Research and Innovation Agency (BRIN), Researcher
-abdu049@brin.go.id
 
 9. Forest, Watershed and Coastal Ecosystem Conservation in Myanmar:Current Practices and Opportunities for Digital Transformation
 
 Chu Thinzar Nyan, Myanmar, Watershed M anagement Division, Forest Department, Myanmar, Staff Officer
-chuthinzarnyan@gmail.com
 
 10. China-ASEAN Cooperation on Artificial Intelligence: Policies, Mechanisms, and Case Study Progress
 
@@ -87,7 +82,6 @@ Sun Dongjing,Senior Engineer,Institute of Eco-Environmental Research,Guangxi Aca
 4.The ASEAN Biodiversity Dashboard:A Data Sharing Platform toVisualize Biodiversity Trends and Facilitate Data Mobilization
 
 ALANO JEROME, Philippines, ASEAN Centre for Biodiversity, GIS Officer 
-jsjalano@aseanbiodiversity.org
 
 5.Thailand Smart Agriculture:How Al and Digital Technology ReshapeTraditional Tropical Farming
 
@@ -96,22 +90,19 @@ Nisachol Thaithong,Researcher,Thailand-Guangxi University China-ASEAN Research I
 6.From Field to Phylogeny:Al-Enhanced Taxonomy of Fungal Diversityon Economically Important Plants
 
 Rungtiwa Phookamsak,Kunming Institute of Botany, Chinese Academy of Sciences,AssociateResearcher
-jomjam.rp2@gmail.com
+
 
 7.Artificial Intelligence for Biodiversity and Ecosystem ConservationTimor Leste
 
 Oliveira Soares Vicente,Timor-Leste, Ministry of Tourism and Environment-General Directorate of Environment,IT Officer
-vicentesoares2806@gmail.com
 
 8.Al Research Activities in Our Institution
 
 Normakristagaluh Pesigrihastamadya, Indonesia, Research Center for Artificial Intelligence and Cybersecurity,National Research and Innovation Agency(BRIN),Researcher
-pesinormakrista@gmail.com
 
 9.Application of Al in Identifying Rare,Precious,and Endangered Species Prioritized for Protection in Vietnam
 
 Lê Thu Thuỷ, Vietnam, Centre for Biodiversity Monitoring and Investigation,Nature andBiodiversity Conservation Agency,Ministry of Agriculture andEnvironment,Staff
-ltthuy15@mae.gov.vn or thuylt2712@gmail.com
 
 10.Al-Empowered Smart Grassland Management: Autonomous Robotics for Biodiversity-Friendly Open Environments 
 
